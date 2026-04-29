@@ -1,72 +1,98 @@
-# miniguia-ia-estudos-programacao
-Projeto que mostra como usar Inteligência Artificial para estudar programação, reunindo fontes, testes de prompts e aprendizados de forma organizada.
-# Miniguia: IA para Estudos de Programação
+# 📘 Miniguia: IA para Estudos de Programação
 
-## Sobre o projeto
+## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido como parte de um desafio da DIO. O objetivo é criar um caderno temático no NotebookLM sobre o uso da Inteligência Artificial como ferramenta de aprendizagem ativa para estudar programação e tecnologia.
+Este projeto foi desenvolvido como parte de um desafio da DIO, com o objetivo de criar um caderno temático utilizando o NotebookLM sobre o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
 
-## Tema escolhido
+---
 
-Como usar IA para estudar programação e tecnologia.
+## 🎯 Tema escolhido
 
-## Objetivos de estudo
+Como usar Inteligência Artificial para estudar programação e tecnologia.
 
-- Entender como a IA pode apoiar o aprendizado.
-- Aprender a criar prompts melhores.
-- Organizar fontes confiáveis.
-- Criar um miniguia para revisões futuras.
-- Usar IA sem substituir o pensamento crítico.
+---
 
-## Fontes utilizadas
+## 🎯 Objetivos de estudo
 
-1. Fonte 1: inserir link aqui
-2. Fonte 2: inserir link aqui
-3. Fonte 3: inserir link aqui
-4. Fonte 4: inserir link aqui
-5. Fonte 5: inserir link aqui
+- Entender como a IA pode apoiar o aprendizado
+- Aprender a criar prompts eficientes
+- Organizar fontes confiáveis
+- Desenvolver pensamento crítico no uso da IA
+- Criar um material de revisão reutilizável
 
-## Prompts testados
+---
 
-### Prompt 1
-Explique como a IA pode ajudar no estudo de programação sem substituir o aprendizado.
+## 📚 Fontes utilizadas
 
-### Prompt 2
-Crie um plano de estudos usando IA para aprender Python.
+- https://docs.github.com  
+- https://docs.python.org/3/tutorial/  
+- https://www.ibm.com/br-pt/topics/artificial-intelligence  
+- https://platform.openai.com/docs/guides/prompt-engineering  
 
-### Prompt 3
-Quais cuidados devo ter ao usar IA para estudar tecnologia?
+---
 
-## Cicatrizes e aprendizados
+## 💬 Prompts utilizados
 
-Durante o uso da IA, percebi que perguntas muito genéricas geram respostas superficiais. Ao melhorar os prompts, adicionando contexto e objetivo, as respostas ficaram mais úteis e organizadas.
+- Explique como a Inteligência Artificial pode ajudar no estudo de programação.
+- Crie um resumo estruturado do conteúdo.
+- Monte um glossário com os principais conceitos.
+- Crie um plano de estudos usando IA.
+- Quais erros devo evitar ao usar IA para estudar?
 
-Também aprendi que a IA deve ser usada como apoio ao estudo, não como substituta da prática.
+---
 
-## Miniguia de estudo
+## ⚠️ Cicatrizes e aprendizados
 
-### Resumo
+Durante o uso da IA, percebi que perguntas muito genéricas geram respostas superficiais. Ao melhorar os prompts, adicionando contexto e objetivo, as respostas ficaram mais completas e úteis.
 
-A Inteligência Artificial pode ajudar estudantes a organizar conteúdos, revisar conceitos, gerar exemplos, criar planos de estudo e explicar assuntos difíceis de forma mais simples.
+Também aprendi que a IA deve ser usada como apoio ao estudo, e não como substituta da prática.
 
-Porém, é importante validar as respostas, consultar fontes confiáveis e praticar com projetos reais.
+---
 
-## Glossário
+## 📖 Miniguia de estudo
 
-- IA: tecnologia capaz de simular tarefas inteligentes.
-- Prompt: comando ou pergunta feita para uma IA.
-- NotebookLM: ferramenta de IA para estudar com base em fontes.
-- Curadoria: seleção de fontes confiáveis.
-- Aprendizagem ativa: forma de estudar participando, testando e praticando.
+### 🧠 Resumo
 
-## Prompts reutilizáveis
+A Inteligência Artificial (IA) atua como uma aliada no estudo de programação, tornando o aprendizado mais prático, rápido e eficiente.
 
-- Explique este conteúdo como se eu fosse iniciante.
-- Crie um resumo em tópicos para revisão.
-- Gere perguntas para eu testar meu conhecimento.
-- Mostre exemplos práticos sobre este tema.
-- Crie um glossário com os principais conceitos.
+Entre seus principais benefícios estão:
 
-## Conclusão
+- Geração de código em tempo real  
+- Automação de tarefas repetitivas  
+- Melhoria na qualidade do código  
+- Aprendizado personalizado  
+- Apoio na resolução de dúvidas  
 
-Este projeto mostrou que a IA pode ser uma grande aliada nos estudos de programação e tecnologia, desde que seja usada com pensamento crítico, boas fontes e prática constante.
+---
+
+### 📘 Glossário
+
+- **IA:** tecnologia que simula inteligência humana  
+- **Prompt:** comando dado à IA  
+- **Git:** controle de versão  
+- **GitHub:** plataforma de projetos  
+- **Copilot:** assistente de código  
+- **Python:** linguagem simples e poderosa  
+
+---
+
+### 🚀 Plano de estudos com IA
+
+**Semana 1:** Fundamentos de IA  
+**Semana 2:** Python básico  
+**Semana 3:** Projetos e GitHub  
+**Semana 4:** Machine Learning  
+**Semana 5:** Aplicações práticas  
+**Semana 6:** Ética e segurança  
+
+---
+
+## 🧠 Conclusão
+
+A IA pode ser uma grande aliada no estudo de programação quando usada com responsabilidade, pensamento crítico e prática constante.
+
+---
+
+## 🔗 Link do NotebookLM
+
+(https://notebooklm.google.com/notebook/c0dd6446-c0de-4a45-a126-1507a0b23b12)
