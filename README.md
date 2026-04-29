@@ -86,10 +86,12 @@ Entre seus principais benefícios estão:
 **Semana 6:** Ética e segurança  
 
 ---
-
+---
 ## 🧠 Conclusão
 
-A IA pode ser uma grande aliada no estudo de programação quando usada com responsabilidade, pensamento crítico e prática constante.
+A Inteligência Artificial se mostrou uma ferramenta poderosa no apoio aos estudos de programação, permitindo maior organização, agilidade e compreensão dos conteúdos.
+
+No entanto, seu uso exige pensamento crítico, prática constante e validação das informações, garantindo um aprendizado real e consistente.
 
 ---
 
